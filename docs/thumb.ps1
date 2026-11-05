@@ -1,4 +1,4 @@
-# Builds docs/img/thumbnail.jpg: powershell -File docs/thumb.ps1 -Src docs/img/thumbnail-art.png -Out docs/img/thumbnail.jpg (art: Gemini; walls forest green, black ceiling frame, green highlighter)
+# Builds docs/img/thumbnail.jpg: powershell -File docs/thumb.ps1 -Src docs/img/thumbnail-art.jpg -Out docs/img/thumbnail.jpg (art + rules: docs/DESIGN.md)
 param([string]$Src, [string]$Out)
 Add-Type -AssemblyName System.Drawing
 $W = 1280; $H = 720
