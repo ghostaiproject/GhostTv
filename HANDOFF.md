@@ -6,5 +6,5 @@
 - Debloat: groups track, shop, unused, recs, extra applied (32 apps; prism kept, Appstore needs it). `restore` undoes.
 
 ## Next
-- Projectivy Launcher: user installs via Downloader from the developer's GitHub release (github.com/spocky/miproja1/releases, 4.73). Then: set as home override in Projectivy settings (user enables its accessibility service).
+- Projectivy Launcher 4.72 installed (APKMirror arm64 bundle, base + xhdpi only: stick is 32-bit, arm64 split skipped; runs). Universal build for updates: github.com/spocky/miproja1/releases. Left: user finishes onboarding + enables "Override current launcher" (accessibility) in Projectivy settings.
 - UX switches for the user: Settings > Preferences > Featured Content (autoplay video/audio off); Preferences > Privacy (interest-based ads, app usage data off); Developer options animation scales 0.5x.
