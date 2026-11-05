@@ -3,7 +3,7 @@
 The approved thumbnail is `docs/img/thumbnail.jpg`. The art without text is `docs/img/thumbnail-art.jpg` (Gemini via `crew gemini`, 1376x768). Rebuild the text overlay with `docs/thumb.ps1`.
 
 ## Mood
-- The user's own room at night: cozy, a little gothic, **clean and uncluttered** ("make it clean"). No sofa clutter, skulls, coffin shelves or extra props in the hero art.
+- A living room at night: cozy, a little gothic, **clean and uncluttered** ("make it clean"). No sofa clutter, skulls, coffin shelves or extra props in the hero art.
 - 35mm film look (Kodak Portra 800): fine grain, soft haze, natural light falloff. Never glossy CGI.
 
 ## Room elements (keep these)
