@@ -1,6 +1,10 @@
 # GhostTv
 
+![GhostTv](docs/img/thumbnail.jpg)
+
 Control a Fire TV Stick and a Samsung (Tizen) TV from a Windows PC with Claude Code: remote keys, open apps, read HDMI logs, debloat the stick.
+
+**[Tutorial with screenshots + live demo](docs/TUTO.md)** · **[Download latest](https://github.com/ghostaiproject/GhostTv/releases/latest/download/GhostTv.zip)** · [All releases](https://github.com/ghostaiproject/GhostTv/releases)
 
 ## Install
 ```powershell
