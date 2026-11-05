@@ -10,5 +10,7 @@
 - Fast control: `go <keys>` / `run <macro>` (one monkey run per call, 640px jpg), `ui` text dump; screen maps + macros in `skill/nav/`. uiautomator dumps make Projectivy toast "Accessibility service" (harmless).
 - Projectivy Launcher 4.72 installed (APKMirror arm64 bundle, base + xhdpi only); accessibility override ON → Home opens Projectivy. Universal build for updates: github.com/spocky/miproja1/releases.
 
+- Public tuto `docs/TUTO.md` (TV screens + clips), thumbnail + `docs/DESIGN.md` (approved look), v1.0.0 release zip.
+
 ## Next
 - None open. Ideas: tile long-press menu is unreachable over adb (longpress launches); Projectivy backup/restore file could store this layout.
